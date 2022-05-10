@@ -8,8 +8,8 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello There 👋, I am <br />
-          Zhou Liu.<br /> Seeking for jobs as <span className="info-name">software engineer</span>!
+          Hello there! <br />I am 
+          Zhou Liu, a master student majoring in CS.<br /> Seeking for jobs as <span className="info-name">software engineer</span> in the U.S.!
         </div>
         <div className="about-photo">
           <img

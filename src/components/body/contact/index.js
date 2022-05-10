@@ -9,7 +9,14 @@ function Contact() {
       <label className="section-title">Contact</label>
       <div className="contact-container">
         <div className="contact-left">
-          <p>Want to get in touch? Contact me on any of the platform</p>
+
+          <a>
+          <i class="fi fi-rr-phone-call"></i> +1 (617) 909 8598
+          </a>
+          <br></br>
+          <a>
+          <i class="fi fi-rr-envelope"></i> zhouliupku@gmail.com
+          </a>
           <SocialContact />
         </div>
         <div className="download">

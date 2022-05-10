@@ -1,7 +1,7 @@
-import React from 'react'
-
+import React from "react";
+import "./footer.css";
 function Footer() {
-  return <div>This is footer.</div>
+  return <div className="footer">Made with 🔥 by Overreacted</div>;
 }
 
-export default Footer
+export default Footer;

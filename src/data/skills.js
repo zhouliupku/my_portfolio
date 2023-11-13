@@ -33,13 +33,41 @@ export const SkillsData = [
           icon: <i class="devicon-java-plain colored"></i>,
         },
         {
+          name: "Java Spring",
+          icon: 
+          <i class="devicon-spring-plain colored"></i>,
+        },
+        {
           name: "Python",
           icon: <i class="devicon-python-plain colored"></i>,
+        },
+        {
+          name: "Python Django",
+          icon: 
+          <i class="devicon-django-plain colored"></i>,
+        
+        },
+        {
+          name: "Python Flask",
+          icon: 
+          <i class="devicon-flask-original colored"></i>,
+        
         },
         {
           name: "NodeJS",
           icon: <i class="devicon-nodejs-plain colored"></i>,
         },
+        
+      ],
+    },
+
+    {
+      type: "Database",
+      list: [
+        {name: "MySQL",
+        icon: 
+        <i class="devicon-mysql-plain colored"></i>,
+      },
         {
           name: "MongoDB",
           icon: <i class="devicon-mongodb-plain colored"></i>,
@@ -74,6 +102,18 @@ export const SkillsData = [
           <i class="devicon-git-plain colored"></i>
         ,
         },
+        {
+          name: "AWS",
+          icon: 
+          <i class="devicon-amazonwebservices-original colored"></i>,
+        
+        },
+        {
+          name: "Docker",
+          icon: 
+          <i class="devicon-docker-plain colored"></i>
+        
+        }
       ],
     },
   ];

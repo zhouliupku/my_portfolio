@@ -1,4 +1,16 @@
 export const ProjectData = [
+  {
+    id: 1,
+    title: "Course Registration Service",
+    about:
+      "This is a platform for students to register/drop courses and teachers to open courses!",
+    tags: ["ReactJS", "Java Springboot", "MySQL", "AWS", "Full Stack"],
+    demo: "http://course-enrollment-zhouzhou.s3-website-us-west-2.amazonaws.com/",
+    github: "https://github.com/zhouliupku/course-enrollment-fullstack",
+    image:
+    // "https://64.media.tumblr.com/eb47501a51d713704f56f781315aa161/646750c263bafd5f-8b/s1280x1920/4af9a89e259bc0fe73720d7e01bf989569fbb5a9.jpg"
+      require("../assets/projectimage/course.jpeg"),
+  },
     {
       id: 1,
       title: "Red Panda Camp",

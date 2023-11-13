@@ -1,4 +1,22 @@
 export const WorkData = [
+  {
+    company: "Strike Technologies",
+    designation: "Software Engineer",
+    dateJoining: "2023.9",
+    dateEnd: "Present",
+    companyLogo:
+      "https://striketechnologies.com/wp-content/uploads/2021/06/Strike-Technologies.png",
+    work: "Internship",
+  },
+  {
+    company: "Amzon.com LLC",
+    designation: "Software Dev Engineer",
+    dateJoining: "2023.5",
+    dateEnd: "2023.8",
+    companyLogo:
+      "https://m.media-amazon.com/images/G/01/gc/designs/livepreview/a_generic_white_10_us_noto_email_v2016_us-main._CB627448186_.png",
+    work: "Internship",
+  },
     
     {
       company: "Northeastern University",
@@ -26,7 +44,7 @@ export const WorkData = [
       dateJoining: "2019.9",
       dateEnd: "2020.7",
       companyLogo:
-        "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/1024px-Harvard_shield_wreath.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Harvard_University_shield.png",
       work: "Visiting Scholar at Institute for Quantitative Social Science. CS jounery begins.",
     },
 
